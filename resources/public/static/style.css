@@ -1,0 +1,14 @@
+body {
+    font-family: "Helvetica Neue";
+    font-weight: 300;
+}
+.active {
+    font-weight: bold;
+}
+.nav-sidebar {
+    margin-left:-15px;
+}
+
+.status-icons.success { color: green; }
+.status-icons.fail {color:red; }
+.status-icons {font-size:24px; }
